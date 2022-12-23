@@ -1,4 +1,4 @@
-# deu_fome_analise_descritiva
+# Deu Fome - Análise de dados
 Análise descritiva de uma base de dados com python e construção de um dashboard no streamlit
 
 A empresa Deu Fome é uma marketplace de restaurantes. Ou seja, seu core
